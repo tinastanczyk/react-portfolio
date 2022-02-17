@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Header from './Header';
 import Headshot from './Headshot';
+import Contact from './Contact';
 
 
 function Portfolio({ logo }) {
@@ -9,6 +10,7 @@ function Portfolio({ logo }) {
     <div>
       <Header />
       <Headshot />
+      <Contact />
     </div>
   );
 }
