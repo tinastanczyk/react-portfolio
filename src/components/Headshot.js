@@ -1,9 +1,9 @@
-import logo from '../logo.svg';
+import profPic from '../images/headshot.jpg';
 import React, { useState } from 'react';
 
 function Headshot(){
   return (
-    <img src = {logo} alt="headshot"></img>
+    <img src = {profPic} alt="headshot"></img>
   );
 }
 
