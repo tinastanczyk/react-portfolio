@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
+import Header from '../layout/Header';
 
-function Portfolio() {
+function Portfolio({ logo }) {
 
   return (
     <div>
-      <h1>Tina Stanczyk</h1>
+      <Header />
+      <img src={ logo }></img>
     </div>
   );
 }
