@@ -13,10 +13,10 @@ function Nav({ currentTab, handleTabChange }) {
           <li><a href='#contact' onClick={() => handleTabChange('Contact')} className={currentTab === 'Contact' ? 'nav-link active' : 'nav-link' } >Contact</a></li>
         </ul>
         <ul className='sidenav' id="mobile-demo">
-        <li><a href='#'>About</a></li>
-          <li><a href='#'>Portfolio</a></li>
-          <li><a href='#'>Resume</a></li>
-          <li><a href='#'>Contact</a></li>
+          <li><a href='#about' onClick={() => handleTabChange('About')} className={currentTab === 'About' ? 'nav-link active' : 'nav-link' } >About</a></li>
+          <li><a href='#portfolio' onClick={() => handleTabChange('Portfolio')} className={currentTab === 'Portfolio' ? 'nav-link active' : 'nav-link' } >Portfolio</a></li>
+          <li><a href='#resume' onClick={() => handleTabChange('Resume')} className={currentTab === 'Resume' ? 'nav-link active' : 'nav-link' } >Resume</a></li>
+          <li><a href='#contact' onClick={() => handleTabChange('Contact')} className={currentTab === 'Contact' ? 'nav-link active' : 'nav-link' } >Contact</a></li>
         </ul>
       </div>
     </nav>
