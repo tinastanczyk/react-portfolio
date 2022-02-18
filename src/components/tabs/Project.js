@@ -1,12 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Cards from '../layout/Cards';
-import playspaceImg from '../../images/playspace-screenshot.png';
-import ecommerceImg from '../../images/ecommerce-screenshot.png';
-import jateImg from '../../images/Jate-screenshot.png';
-import socialImg from '../../images/social-media-api-screenshot.png';
-import noteImg from '../../images/noteTaker-screenshot.png';
-import teamImg from '../../images/teamGen-screenshot.png';
-import projects from '../projectArray';
+import playspaceImg from '../images/playspace-screenshot.png';
+import ecommerceImg from '../images/ecommerce-screenshot.png';
+import jateImg from '../images/Jate-screenshot.png';
+import socialImg from '../images/social-media-api-screenshot.png';
+import noteImg from '../images/noteTaker-screenshot.png';
+import teamImg from '../images/teamGen-screenshot.png';
+import projects from '../assets/projectArray';
 
 function Project() {
   return(
