@@ -34,6 +34,7 @@ function Portfolio() {
   return (
     <div>
       <Nav currentTab={currentTab} handleTabChange={handleTabChange} />
+      {renderTab()}
     </div>
   );
 }
