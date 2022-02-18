@@ -5,9 +5,9 @@ function Resume() {
   return (
     <div className='container'>
       <div className='row'>
-        <div className='section center'>
+        <div className='section center proficiencies'>
           <h3>Proficiencies</h3>
-          <div className='col s4'>
+          <div className='col s4' id="first-col">
           <ul>
             <li>Front-End Development</li>
             <li>Terminal</li>
@@ -22,7 +22,7 @@ function Resume() {
             <li>Python</li>
           </ul>
           </div>
-          <div className='col s4'>
+          <div className='col s4' id="second-col">
           <ul>
             <li>JavaScript/JS</li>
             <li>JQuery</li>
@@ -37,7 +37,7 @@ function Resume() {
             <li>Express Handlebars</li>
           </ul>
           </div>
-          <div className='col s4'>
+          <div className='col s4' id="third-col">
           <ul>
             <li>Materialize</li>
             <li>React</li>

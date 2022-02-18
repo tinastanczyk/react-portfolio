@@ -6,6 +6,20 @@
 :root{
   background-color: #cdc776;
 }
+
+#first-col, #third-col{
+  background-color: #dbf4ad;
+  min-height: 19rem;
+  justify-content: center;
+}
+
+#second-col{
+  border-color: #dbf4ad;
+  border: 0.25rem solid #dbf4ad;
+  justify-content: center;
+}
+
+
 .App {
   text-align: center;
 }
