@@ -10,3 +10,10 @@
   align-self: center;
   color: black;
 }
+
+@media (max-width: 912px){
+  .contact-links a, p{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}

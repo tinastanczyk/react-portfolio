@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-import './App.css';
+import './components/assets/css/App.css';
 import Portfolio from './components/PortfolioContainer';
 
 function App() {

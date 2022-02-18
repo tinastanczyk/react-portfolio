@@ -1,6 +1,9 @@
 *{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
+  /* background-color: #cdc776; */
+}
+:root{
   background-color: #cdc776;
 }
 .App {

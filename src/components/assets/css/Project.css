@@ -1,15 +1,12 @@
-.container{
-  margin-top: 5rem;
-}
-img {
-  height: 25rem;
+img{
   image-rendering: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
   image-rendering: -webkit-optimize-contrast;
 }
-.about-me{
+.card{
   background-color: #dbf4ad;
+}
+.card-content, .card-title{
   text-align: center;
-  align-items: center;
 }

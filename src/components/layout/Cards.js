@@ -1,13 +1,14 @@
 import React from "react";
+import '../assets/css/Project.css';
 
 function Cards({ imgSrc, title, content, repoLink, deployLink }) {
   return (
     <div className="card">
       <div className="card-image waves-effect waves-block waves-light">
-        <img className="activator" src={imgSrc} alt="project screenshot"></img>
+        <img className="activator responsive-img" src={imgSrc} alt="project screenshot"></img>
       </div>
       <div className="card-content">
-        <span className="card-title activator grey-text text-darken-4">
+        <span className="card-title activator grey-text text-darken-4 center">
           {title}
           <i className="material-icons right">more_vert</i>
         </span>
@@ -23,6 +24,11 @@ function Cards({ imgSrc, title, content, repoLink, deployLink }) {
           <i className="material-icons right">close</i>
         </span>
         <p>{content}</p>
+        <p>
+          <a href={repoLink}>Github Repo</a>
+          <br />
+          <a href={deployLink}>Deployed Site</a>
+        </p>
       </div>
     </div>
   );

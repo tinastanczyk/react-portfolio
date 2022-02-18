@@ -5,7 +5,7 @@ import './css/Headshot.css';
 function Headshot(){
   return (
     <div className='container'>
-      <div className='row center'>
+      <div className='row center head-row'>
     <img src = {profPic} alt="headshot"></img>
     </div>
     </div>

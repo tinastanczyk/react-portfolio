@@ -7,6 +7,7 @@ import socialImg from '../images/social-media-api-screenshot.png';
 import noteImg from '../images/noteTaker-screenshot.png';
 import teamImg from '../images/teamGen-screenshot.png';
 import projects from '../assets/projectArray';
+import '../assets/css/Project.css';
 
 function Project() {
   return(

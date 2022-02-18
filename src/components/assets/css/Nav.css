@@ -1,0 +1,15 @@
+nav{
+  background-color: #767522;
+}
+.brand-logo{
+  margin-left: 5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+@media (max-width: 912px) {
+  .brand-logo{
+    margin-left: 0rem;
+  }
+}

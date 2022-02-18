@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+import '../assets/css/Nav.css';
+
 function Nav({ currentTab, handleTabChange }) {
   return (
     <nav>
