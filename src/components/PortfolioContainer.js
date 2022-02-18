@@ -3,7 +3,7 @@ import Contact from './tabs/Contact';
 import About from './tabs/About';
 import Project from './tabs/Project';
 import Resume from './tabs/Resume';
-import Nav from './Nav';
+import Nav from './layout/Nav';
 
 
 function Portfolio() {
