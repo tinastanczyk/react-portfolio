@@ -1,5 +1,6 @@
 import React from "react";
 import { useForm } from "react-hook-form";
+import '../assets/css/Form.css'
 
 function Form() {
   const {
@@ -38,7 +39,7 @@ function Form() {
             {errors.message?.type === "required" && "A message is required."}
             <br />
             <br />
-            <input type="submit" />
+            <input id="submit-btn" className="waves-effect waves-light btn" type="submit" />
           </form>
         </div>
       </div>
