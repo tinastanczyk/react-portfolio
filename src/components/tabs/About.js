@@ -13,7 +13,7 @@ function About() {
           <div className='col s12 center'>
             <h2>About</h2>
             <p className='left-align light'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+            Hi, my name is Tina! I am a full-stack web developer and aspiring entrepreneur. Besides programming, I enjoy painting, reading, singing and snowboarding. My favorite place in the world is Jackson, Wyoming. I live in Cherry Hill, NJ and went to the University of Colorado Boulder for higher education. I am currently in a certificate program for full-stack development at University of Pennsylvania. I plan on working in the industry to gain experience while building my own business in my free time.
             </p>
           </div>
         </div>
