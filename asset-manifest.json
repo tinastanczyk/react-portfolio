@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5f3b61ec.css",
+    "main.js": "/react-portfolio/static/js/main.8d1a35dc.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/playspace-screenshot.png": "/react-portfolio/static/media/playspace-screenshot.68fb1558ad2b1f85976b.png",
+    "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.27b2962147043b1d819e.jpg",
+    "static/media/social-media-api-screenshot.png": "/react-portfolio/static/media/social-media-api-screenshot.2184c87ffb92c55ac46e.png",
+    "static/media/ecommerce-screenshot.png": "/react-portfolio/static/media/ecommerce-screenshot.ea81b96f3cb9306ca011.png",
+    "static/media/Jate-screenshot.png": "/react-portfolio/static/media/Jate-screenshot.ee34adad0df22af3d144.png",
+    "static/media/teamGen-screenshot.png": "/react-portfolio/static/media/teamGen-screenshot.c38b24b0889cdfb624ee.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.091291b3e98d39360a38.pdf",
+    "static/media/noteTaker-screenshot.png": "/react-portfolio/static/media/noteTaker-screenshot.ece711a2b2dbf2620323.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.5f3b61ec.css.map": "/react-portfolio/static/css/main.5f3b61ec.css.map",
+    "main.8d1a35dc.js.map": "/react-portfolio/static/js/main.8d1a35dc.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f3b61ec.css",
+    "static/js/main.8d1a35dc.js"
+  ]
+}
