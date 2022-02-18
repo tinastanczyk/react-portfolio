@@ -1,0 +1,12 @@
+.contact-links{
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+.contact-links a, p{
+  margin-left: 5rem;
+  margin-right: 5rem;
+  align-self: center;
+  color: black;
+}

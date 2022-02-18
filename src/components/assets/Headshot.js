@@ -1,5 +1,5 @@
 import profPic from '../images/headshot.jpg';
-import React, { useState } from 'react';
+import React from 'react';
 import './css/Headshot.css';
 
 function Headshot(){

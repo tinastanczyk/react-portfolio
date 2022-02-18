@@ -4,6 +4,7 @@ import About from './tabs/About';
 import Project from './tabs/Project';
 import Resume from './tabs/Resume';
 import Nav from './layout/Nav';
+import Footer from './layout/Footer';
 
 
 function Portfolio() {
@@ -35,6 +36,7 @@ function Portfolio() {
     <div>
       <Nav currentTab={currentTab} handleTabChange={handleTabChange} />
       {renderTab()}
+      <Footer />
     </div>
   );
 }
