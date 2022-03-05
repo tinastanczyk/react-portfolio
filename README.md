@@ -13,7 +13,8 @@
 
   ## Usage
 
-  ![image](screenshots/portfolio-screenshot.png)
+  ![image](screenshots/portfolio-about.png)
+  ![image](screenshots/portfolio-projects.png)
   
   ## Credits
   React, Materialize, Node, Express
