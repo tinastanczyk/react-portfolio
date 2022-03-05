@@ -13,9 +13,9 @@ function Cards({ imgSrc, title, content, repoLink, deployLink }) {
           <i className="material-icons right">more_vert</i>
         </span>
         <p>
-          <a href={repoLink}>Github Repo</a>
+          <a href={repoLink} target='_blank'>Github Repo</a>
           <br />
-          <a href={deployLink}>Deployed Site</a>
+          <a href={deployLink} target='_blank'>Deployed Site</a>
         </p>
       </div>
       <div className="card-reveal">
@@ -25,9 +25,9 @@ function Cards({ imgSrc, title, content, repoLink, deployLink }) {
         </span>
         <p>{content}</p>
         <p>
-          <a href={repoLink}>Github Repo</a>
+          <a href={repoLink} target='_blank'>Github Repo</a>
           <br />
-          <a href={deployLink}>Deployed Site</a>
+          <a href={deployLink} target='_blank'>Deployed Site</a>
         </p>
       </div>
     </div>

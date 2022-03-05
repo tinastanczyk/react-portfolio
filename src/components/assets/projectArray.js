@@ -9,6 +9,12 @@ const projects = [
     deployLink: 'https://blooming-taiga-58693.herokuapp.com/'
   },
   {
+    title: 'Dungeons, Notes, Dragons',
+    content: 'A character sheet and note-taking app for Dungeons and Dragons.',
+    repoLink: 'https://github.com/tinastanczyk/dungeons_notes_dragons',
+    deployLink: 'https://agile-tundra-64769.herokuapp.com/'
+  },
+  {
     title: 'E-Commerce Back-End',
     content: 'An E-commerce platform.',
     repoLink: 'https://github.com/tinastanczyk/e-commerce-back-end',
