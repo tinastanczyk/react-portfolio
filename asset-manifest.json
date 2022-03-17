@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.3ffe3c73.css",
-    "main.js": "/react-portfolio/static/js/main.56d6b68f.js",
+    "main.css": "/react-portfolio/static/css/main.d362865a.css",
+    "main.js": "/react-portfolio/static/js/main.14d2370f.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/playspace-screenshot.png": "/react-portfolio/static/media/playspace-screenshot.68fb1558ad2b1f85976b.png",
     "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.27b2962147043b1d819e.jpg",
@@ -13,12 +13,12 @@
     "static/media/march-resume-2022.pdf": "/react-portfolio/static/media/march-resume-2022.774c177def1f4c9ff141.pdf",
     "static/media/noteTaker-screenshot.png": "/react-portfolio/static/media/noteTaker-screenshot.ece711a2b2dbf2620323.png",
     "index.html": "/react-portfolio/index.html",
-    "main.3ffe3c73.css.map": "/react-portfolio/static/css/main.3ffe3c73.css.map",
-    "main.56d6b68f.js.map": "/react-portfolio/static/js/main.56d6b68f.js.map",
+    "main.d362865a.css.map": "/react-portfolio/static/css/main.d362865a.css.map",
+    "main.14d2370f.js.map": "/react-portfolio/static/js/main.14d2370f.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ffe3c73.css",
-    "static/js/main.56d6b68f.js"
+    "static/css/main.d362865a.css",
+    "static/js/main.14d2370f.js"
   ]
 }
