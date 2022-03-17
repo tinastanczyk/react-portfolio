@@ -8,6 +8,7 @@ function Footer() {
         <a href="https://github.com/tinastanczyk" alt='link to github' target='_blank'>Github</a>
         <a href="https://www.linkedin.com/in/christina-stanczyk-a9a266222/" alt='link to linkedIn' target='_blank'>LinkedIn</a>
         <p>Call: 856-254-3820</p>
+        <p>Email: t9.stanczyk@gmail.com</p>
       </div>
     </div>
   );
