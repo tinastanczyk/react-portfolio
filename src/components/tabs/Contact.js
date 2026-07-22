@@ -2,11 +2,12 @@ import React from "react";
 import { useForm } from "react-hook-form";
 import '../assets/css/Form.css'
 
-function Form() {
+function 
+Form() {
   const {
     register,
     handleSubmit,
-    watch,
+    //watch,
     formState: { errors },
   } = useForm();
   const onSubmit = (data) => console.log(data);
